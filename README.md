@@ -6,12 +6,6 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1348085208703963246/1378548793489752235/0fb800e579c3a8ed679644ac4cc2f16b.jpg?ex=684e249c&is=684cd31c&hm=53555e16cecc6cd5bfb76cc91280c0c522eeafd854e057f897e118ecd4c314c2&"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://discord.gg/ThYfJZNf2e" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
